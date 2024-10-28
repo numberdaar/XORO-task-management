@@ -16,7 +16,7 @@ This is a backend management system using Node.js, Express, MongoDB, and Mongoos
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/backend-management.git
+   git clone https://github.com/numberdaar/XORO-task-management
    cd backend-management
    ```
 2. **Install dependencies**:
@@ -31,7 +31,7 @@ PORT=5000
 MONGODB_URI=your_mongodb_connection_string
 ```
 
-**Starting the Server:
+**Starting the Server**:
 
 For production:
 ```bash
