@@ -23,13 +23,14 @@ This Task Manager application is built using React, Material-UI, and Axios. It p
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
-```
+   git clone https://github.com/numberdaar/XORO-task-management
+   cd frontend
+   ```
+
 2.Install dependencies:
-```bash
-npm install
-```
+ ```bash
+   npm install
+  ```
 3. Set up environment variables:
 - .Create an .env file at the root level of your project.
 - .Define your API base URL as REACT_APP_API_BASE_URL.
