@@ -26,19 +26,19 @@ This Task Manager application is built using React, Material-UI, and Axios. It p
    git clone <repository_url>
    cd <repository_name>
 ```
-2.Install dependencies**:
+2.Install dependencies:
 ```bash
 npm install
 ```
 3. Set up environment variables:
-.Create an .env file at the root level of your project.
-.Define your API base URL as REACT_APP_API_BASE_URL.
+- .Create an .env file at the root level of your project.
+- .Define your API base URL as REACT_APP_API_BASE_URL.
 
 **Running the Application**
 To start the development server, run:
 ```bash
 npm start
-``
+```
 **Building for Production**
 To create a production build, run:
 ```bash
