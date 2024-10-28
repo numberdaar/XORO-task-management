@@ -1,7 +1,4 @@
-# Task Manager Application
-
-## Overview
-This Task Manager application is built using React, Material-UI, and Axios. It provides a user-friendly interface to manage tasks by allowing users to add, edit, delete, and mark tasks as completed. The app also supports file uploads for tasks, displays tasks in a table format, and includes a loading indicator.
+# Task Manager-frontend
 
 ## Features
 - **Add Task:** Allows users to add new tasks with a title, description, deadline, and status.
